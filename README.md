@@ -5,6 +5,5 @@ __________         __    __
  |    |     / __ \|  |  |  | \  ___/|  | \/   |  \\___ \ 
  |____|    (____  /__|  |__|  \___  >__|  |___|  /____  >
                 \/                \/           \/     \/ 
-
 ```
 Implementations of several pattern matching algorithms, written in efficient C++
